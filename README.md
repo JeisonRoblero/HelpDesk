@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BancoVirtual
 Banco que simula transacciones monetarias entre usuarios. 
 
@@ -9,3 +10,7 @@ Banco que simula transacciones monetarias entre usuarios.
 ![image](https://user-images.githubusercontent.com/89631773/225821722-251ff93a-7945-46ce-b6f7-57b1535f5c30.png)
 ![image](https://user-images.githubusercontent.com/89631773/225821779-b962f607-3368-4d01-9723-b7ccf96bb280.png)
 
+=======
+# HelpDesk
+Help Desk App: Mesa de ayuda para atención de servicios informaticos
+>>>>>>> 1436e71e5fa1be6d41f41926ee6ffa82e98fc421
