@@ -1,6 +1,7 @@
 # HelpDesk
-Help Desk App: Mesa de ayuda para atención de servicios informaticos.
+Help Desk App: Mesa de ayuda para atención de servicios informaticos. Creada con PHP para backend, Oracle para la base de datos, HTML5, CSS3 y Javascript para el frontend.
 
+## Objetivo
 Sistema de HelpDesk diseñado para gestionar y resolver solicitudes de soporte técnico. El sistema proporciona una interfaz intuitiva y funcional para que los usuarios registren sus problemas y los técnicos puedan responder y resolver eficientemente.
 
 ## Capturas
